@@ -9,8 +9,6 @@ The Keeper Project has the following features:
 
 Create a new note
 
-Edit an existing note
-
 Delete a note
 
 View a list of all notes
